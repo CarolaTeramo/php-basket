@@ -10696,10 +10696,10 @@ return jQuery;
 
 /***/ }),
 
-/***/ "./src/js/model.js":
-/*!*************************!*\
-  !*** ./src/js/model.js ***!
-  \*************************/
+/***/ "./src/js/app.js":
+/*!***********************!*\
+  !*** ./src/js/app.js ***!
+  \***********************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10711,10 +10711,10 @@ $(document).ready(function () {
 
 /***/ }),
 
-/***/ "./src/scss/model.scss":
-/*!*****************************!*\
-  !*** ./src/scss/model.scss ***!
-  \*****************************/
+/***/ "./src/scss/app.scss":
+/*!***************************!*\
+  !*** ./src/scss/app.scss ***!
+  \***************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10723,14 +10723,14 @@ $(document).ready(function () {
 /***/ }),
 
 /***/ 0:
-/*!*****************************************************!*\
-  !*** multi ./src/js/model.js ./src/scss/model.scss ***!
-  \*****************************************************/
+/*!*************************************************!*\
+  !*** multi ./src/js/app.js ./src/scss/app.scss ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/carolateramo/Desktop/Boolean/Esercizi/Giugno/dove lavoro con node/src/js/model.js */"./src/js/model.js");
-module.exports = __webpack_require__(/*! /Users/carolateramo/Desktop/Boolean/Esercizi/Giugno/dove lavoro con node/src/scss/model.scss */"./src/scss/model.scss");
+__webpack_require__(/*! /Applications/MAMP/htdocs/Es_7_(17_Giugno)/src/js/app.js */"./src/js/app.js");
+module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/Es_7_(17_Giugno)/src/scss/app.scss */"./src/scss/app.scss");
 
 
 /***/ })

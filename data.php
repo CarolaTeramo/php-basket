@@ -74,12 +74,7 @@
     //var_dump($giocatori);
   }
 
-  foreach ($giocatori as $key => $singolo_giocatore) {
-    echo $singolo_giocatore['codice']. '<br>';
-    // foreach ($singolo_giocatore as $key => $value) {
-    //   echo $value;
-    // }
-  }
+
 
 
 ?>
